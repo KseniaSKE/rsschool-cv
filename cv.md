@@ -2,9 +2,8 @@
 
 ## Contact
 
-+ GitHub:
-  + <a href="https://github.com/KseniaSKE">@kseniaSKE</a>
-
++ GitHub: <a href="https://github.com/KseniaSKE">@kseniaSKE</a>
++ Email: test@gmail.com
 
 ## Education
 * Ufa State Aviation College (2012-2016)
